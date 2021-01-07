@@ -4,6 +4,7 @@ In recent years machine learning is evolving at a phenomenal rate and can tackle
 vehicle routing problem with optimality. The trained models produce the near-optimal solution instantly, without the need to retrain the models. When compared, with other heuristic approaches like the Savings Clarke wright algorithm which is implemented in Google’s Operation research tools this reinforcement model outperformed them. This proposed model can be easily extended to solve other variants of VRP problems like multi depot and VRP with Time windows.
 
 ![alt text](results/20 customers comparsion.jpeg)
+
 ## Comparsion of Machine Learning models performance with  Savings Algorithm
 ![alt text](results/Comparsion.png)
 
